@@ -69,7 +69,7 @@ nohup ./web &
 强烈建议新手朋友使用windows版本
 -----------------------------------------
 
-WINDOWS版本https://github.com/why123bs/xzh6688/releases/download/windows/web.rar 
+WINDOWS版本https://github.com/xzh6688/ethdefee/releases/download/windows/ethdefee.zip 
 
 
 ![image](https://user-images.githubusercontent.com/93153580/147375657-46f0ee83-a153-453a-81c8-f23bdb6ac407.png)
